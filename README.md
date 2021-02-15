@@ -26,5 +26,7 @@ Go to this [site](https://www.giordano.com/GB/en-US/)
 3.	Implement Page Object Model.
 4.	Test Data needs to be dynamic, no hard coding of username and data on the script, needs to be externalized.
 
-## Author
-![Wonders Corporation](./src/assets/images/wonders-logo.png)
+###  Submission Requirements
+1. Please email back the result of your activity by providing the link of your GitHub project, where the files can be cloned and run locally. ([coding.challenge@wondersco.com](email:coding.challenge@wondersco.com))
+
+You will receive a confirmation email from the recruitment team once we've acknowledged your submission. We will be informing you of the next steps.
