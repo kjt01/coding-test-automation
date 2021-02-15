@@ -17,7 +17,7 @@ Test Automation coding challenge
 1.	Verify registration page by creating an account via [Sign in](/SignIn.jpg) page.
 2.	Verify user can log in to the site using the registered account.
 3.	Verify the page title is correct.
-4.	Verify the [Categories](/Categories.jph) are displayed with a label and image.
+4.	Verify the [Categories](/Categories.jpg) are displayed with a label and image.
 5.	Select a product and Verify [Checkout](/Checkout.jpg) page, just check the page, no need to proceed to payment.
 
 ## Requirements for Part 1 and Part 2:
