@@ -11,14 +11,14 @@ Test Automation coding challenge
 4.	Create a project using java, selenium, maven, etc. to automated the page.
 
 ## Part 2: Sample automation script for an online shopping website
-Go to this [site](https://www.giordano.com/GB/en-US/)
+- Go to this [site](https://www.giordano.com/GB/en-US/)
 
 ## Instructions:
-1.	Verify registration page by creating an account via Sign in page.
+1.	Verify registration page by creating an account via [Sign in](/SignIn.jpg) page.
 2.	Verify user can log in to the site using the registered account.
 3.	Verify the page title is correct.
-4.	Verify the Categories are displayed with a label and image.
-5.	Select a product and Verify Checkout page, just check the page, no need to proceed to payment.
+4.	Verify the [Categories](/Categories.jph) are displayed with a label and image.
+5.	Select a product and Verify [Checkout](/Checkout.jpg) page, just check the page, no need to proceed to payment.
 
 ## Requirements for Part 1 and Part 2:
 1.	Create the automated script for the given sites and the above scenarios.
