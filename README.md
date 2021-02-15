@@ -2,7 +2,7 @@
 Test Automation coding challenge
 
 ## Part 1: Automation script for web element verification
-- Go to this [site](#https://artoftesting.com/samplesiteforselenium)
+- Go to this [site](https://artoftesting.com/samplesiteforselenium)
 
 ## Instructions:
 1.	Verify the fields on the Page, from the Title, each field and label, checkboxes, option buttons, etc. are displayed and correct.
@@ -11,7 +11,7 @@ Test Automation coding challenge
 4.	Create a project using java, selenium, maven, etc. to automated the page.
 
 ## Part 2: Sample automation script for an online shopping website
-Go to this [site](#https://www.giordano.com/GB/en-US/)
+Go to this [site](https://www.giordano.com/GB/en-US/)
 
 ## Instructions:
 1.	Verify registration page by creating an account via Sign in page.
