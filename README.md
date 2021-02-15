@@ -1,2 +1,2 @@
 # coding-test-automation
-This serves as the repository for the automation coding challenge. 
+Wonders Corporation Coding Challenge for test automation 
